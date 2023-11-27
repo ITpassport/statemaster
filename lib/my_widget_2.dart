@@ -9,4 +9,3 @@ class MyWidget extends ConsumerWidget {
     return Text('ここにデータを表示');
   }
 }
-//aaaa
